@@ -1,0 +1,185 @@
+{
+ "EN": {
+  "بنش بريس": "Bench press",
+  "ضغط مائل دمبل": "Incline dumbbell press",
+  "ضغط أكتاف دمبل": "Dumbbell shoulder press",
+  "رفرفة جانبية": "Lateral raise",
+  "ترايسبس بوش داون": "Triceps pushdown",
+  "سحب علوي": "Lat pulldown",
+  "تجديف بار": "Barbell row",
+  "تجديف كابل جلوس": "Seated cable row",
+  "فيس بول": "Face pull",
+  "كيرل بايسبس": "Biceps curl",
+  "سكوات بوزن الجسم": "Bodyweight squat",
+  "سكوات": "Squat",
+  "ديدلفت روماني": "Romanian deadlift",
+  "ضغط أرجل": "Leg press",
+  "كيرل أرجل خلفي": "Leg curl",
+  "رفع السمانة": "Calf raise",
+  "سمانة": "Calf raise",
+  "لانجز بحقيبة رمل": "Sandbag lunges",
+  "لانجز": "Lunges",
+  "بلانك جانبي": "Side plank",
+  "بلانك": "Plank",
+  "رفع أرجل (بطن)": "Leg raise (abs)",
+  "بولوفر دمبل": "Dumbbell pullover",
+  "رمي كرة طبية": "Medicine ball throw",
+  "سوينغ كيتل بيل": "Kettlebell swing",
+  "قفز صندوق": "Box jump",
+  "قفز عمودي": "Vertical jump",
+  "ضغط (Push-ups)": "Push-ups",
+  "تجديف مقلوب أو بالمطاط": "Inverted or band row",
+  "مشي سريع أو جري خفيف": "Brisk walk or easy jog",
+  "إطالة الورك والفخذ": "Hip and thigh stretch",
+  "تدوير الكتفين": "Shoulder circles",
+  "جسر الأرداف": "Glute bridge",
+  "Bird-dog": "Bird-dog",
+  "تنفس عميق": "Deep breathing",
+  "نوردك هامسترينغ": "Nordic hamstring curl",
+  "كوبنهاغن (فخذ داخلي)": "Copenhagen plank",
+  "توازن على قدم": "Single-leg balance",
+  "سبرنت 20–30 م": "Sprint 20–30 m",
+  "تغيير اتجاه 5-10-5": "5-10-5 agility drill",
+  "جري 1 كم": "1 km run",
+  "دفع/سحب مزلقة (Sled)": "Sled push/pull",
+  "رمي كرة على الحائط": "Wall balls",
+  "مشي حمل (Farmers)": "Farmers carry",
+  "تجديف": "Rowing",
+  "جري أو دراجة بمنطقة 2": "Run or bike in zone 2",
+  "إحماء جري خفيف": "Easy jog warm-up",
+  "إحماء ومرونة": "Warm-up and mobility",
+  "إحماء": "Warm-up",
+  "تهدئة": "Cool-down",
+  "جري سهل بمنطقة 2": "Easy run in zone 2",
+  "جري بإيقاع ثابت (جهد 7/10)": "Steady tempo run (effort 7/10)",
+  "جري طويل بطيء": "Slow long run",
+  "4–6 × 3 د سريع (جهد 8/10)": "4–6 × 3 min fast (effort 8/10)",
+  "6 × 2 د جهد 8/10 (جري أو تجديف)": "6 × 2 min at effort 8/10 (run or row)",
+  "4 × 4 د بنبض مرتفع (85–95%)": "4 × 4 min at high heart rate (85–95%)",
+  "جسم كامل أ": "Full body A",
+  "جسم كامل ب": "Full body B",
+  "جسم كامل ج": "Full body C",
+  "علوي أ": "Upper A",
+  "علوي ب": "Upper B",
+  "سفلي أ": "Lower A",
+  "سفلي ب": "Lower B",
+  "علوي": "Upper",
+  "سفلي": "Lower",
+  "دفع": "Push",
+  "سحب": "Pull",
+  "أرجل": "Legs",
+  "أرجل وبطن": "Legs & abs",
+  "صدر وظهر": "Chest & back",
+  "كتف وذراعين": "Shoulders & arms",
+  "قوة للعدّائين": "Strength for runners",
+  "قوة أ": "Strength A",
+  "قوة ب": "Strength B",
+  "قوة ج": "Strength C",
+  "قوة": "Strength",
+  "كارديو": "Cardio",
+  "مرونة": "Mobility",
+  "جري سهل": "Easy run",
+  "فترات": "Intervals",
+  "جري طويل": "Long run",
+  "إيقاع ثابت": "Tempo",
+  "سرعة": "Speed",
+  "وقاية": "Prevention",
+  "محطات": "Stations",
+  "هوائي سهل": "Easy aerobic",
+  "تحمل": "Endurance"
+ },
+ "STORIES": [
+  [
+   "الماء",
+   "Water",
+   "#FEFFFC",
+   "<path d=\"M12 3s6 6 6 11a6 6 0 0 1-12 0c0-5 6-11 6-11z\"/>",
+   "اشرب نحو 35 مل لكل كغ من وزنك يومياً، وزِد 500 مل بأيام التمرين.",
+   "Drink about 35 ml per kg of body weight daily, and add 500 ml on training days."
+  ],
+  [
+   "النوم",
+   "Sleep",
+   "#8116E0",
+   "<path d=\"M20 14a8 8 0 1 1-10-10 6 6 0 0 0 10 10z\"/>",
+   "7–9 ساعات نوم تحسّن الاستشفاء والأداء، والنوم القليل يرفع إحساسك بالجهد.",
+   "7–9 hours of sleep improves recovery and performance; too little sleep makes effort feel harder."
+  ],
+  [
+   "التدرّج",
+   "Progression",
+   "#D0FF00",
+   "<path d=\"M5 20V10M12 20V4M19 20v-7\"/>",
+   "ارفع 2.5 كغ فقط عندما تصل لأعلى التكرارات بجهد RPE 8 أو أقل.",
+   "Add 2.5 kg only when you reach the top reps at RPE 8 or lower."
+  ],
+  [
+   "البروتين",
+   "Protein",
+   "#D0FF00",
+   "<path d=\"M12 3c1 4 5 5 5 10a5 5 0 0 1-10 0c0-2 1-3 2-4 0 2 1 3 2 3 0-3-1-5 1-9z\"/>",
+   "1.6–2.2 غ بروتين لكل كغ من وزنك، موزعة على 3–4 وجبات.",
+   "1.6–2.2 g of protein per kg of body weight, spread over 3–4 meals."
+  ],
+  [
+   "الإحماء",
+   "Warm-up",
+   "#FEFFFC",
+   "<path d=\"M6 8v8M3 10v4M18 8v8M21 10v4M6 12h12\"/>",
+   "5–10 دقائق إحماء ديناميكي تجهّز المفاصل والجهاز العصبي قبل الرفع.",
+   "5–10 minutes of dynamic warm-up prepares joints and nervous system before lifting."
+  ]
+ ],
+ "QUOTES": [
+  [
+   "الانضباط يهزم الدافع عندما يغيب الدافع.",
+   "Discipline beats motivation when motivation fades."
+  ],
+  [
+   "خطوة اليوم أفضل من خطة الغد.",
+   "A step today beats a plan tomorrow."
+  ],
+  [
+   "لا تتوقف عندما تتعب، توقف عندما تنتهي.",
+   "Do not stop when you are tired, stop when you are done."
+  ],
+  [
+   "الأبطال يُصنعون بالتكرار.",
+   "Champions are made by repetition."
+  ],
+  [
+   "جسمك يحقق ما يؤمن به عقلك.",
+   "Your body achieves what your mind believes."
+  ],
+  [
+   "كل تكرار يقرّبك من أفضل نسخة منك.",
+   "Every rep brings you closer to your best self."
+  ],
+  [
+   "الألم مؤقت، والفخر يبقى.",
+   "Pain is temporary, pride lasts."
+  ]
+ ],
+ "PRAISE": [
+  [
+   "بطلللل! أنجزت جلسة اليوم",
+   "CHAMPION! You crushed today's session"
+  ],
+  [
+   "وحش! كمّلت ما بدأته",
+   "Beast mode! You finished what you started"
+  ],
+  [
+   "قوة وإصرار، هيك بنبني الأبطال",
+   "Strength and grit, that is how champions are built"
+  ],
+  [
+   "انتصار جديد، خطوة أقرب لهدفك",
+   "Another win, one step closer to your goal"
+  ],
+  [
+   "ما حدا بوقفك، كمّل!",
+   "Nothing can stop you, keep going!"
+  ]
+ ]
+}

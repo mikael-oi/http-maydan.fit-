@@ -1,0 +1,152 @@
+{
+ "W": {
+  "fullBody": [
+   "كل الجسم بكل جلسة بحركات مركبة، فتتدرب كل عضلة 2–3 مرات أسبوعياً. مناسب للمبتدئ ولوقتك المحدود.",
+   "Whole body each session with compound lifts, so each muscle trains 2–3 times a week. Great for beginners and limited time."
+  ],
+  "upLow": [
+   "جلستان للعلوي وجلستان للسفلي، فتتدرب كل عضلة مرتين أسبوعياً مع راحة كافية. الأبحاث تُظهر أن مرتين أسبوعياً عموماً أفضل من مرة للقوة والتضخيم.",
+   "Two upper and two lower sessions, so each muscle trains twice a week with enough rest. Research generally shows twice weekly beats once for strength and size."
+  ],
+  "arnold": [
+   "صدر مع ظهر (عضلات متضادة)، ثم كتف مع ذراعين، ثم أرجل. حجم وكثافة عاليان، ويناسب المتقدمين القادرين على الاستشفاء.",
+   "Chest with back (opposing muscles), then shoulders with arms, then legs. High volume and intensity, suited to advanced lifters who recover well."
+  ],
+  "ppl": [
+   "تجميع العضلات المتآزرة بيوم واحد يعطي كل مجموعة 48–72 ساعة راحة ويسمح بحجم أكبر.",
+   "Grouping synergistic muscles in one day gives each group 48–72 hours of rest and allows more volume."
+  ],
+  "health": [
+   "تمرينان للقوة على الأقل أسبوعياً مع كارديو معتدل ومرونة، وهذا يتوافق مع توصيات منظمة الصحة العالمية (150 دقيقة نشاط معتدل أسبوعياً وتمرينان للقوة).",
+   "At least two strength sessions a week with moderate cardio and mobility, in line with WHO guidance (150 minutes of moderate activity weekly plus two strength sessions)."
+  ]
+ },
+ "HEALTH": {
+  "2": "hs:قوة,hc:كارديو",
+  "3": "hs:قوة أ,hc:كارديو,hs:قوة ب",
+  "4": "hs:قوة أ,hc:كارديو,hs:قوة ب,hm:مرونة",
+  "5": "hs:قوة أ,hc:كارديو,hs:قوة ب,hc:كارديو,hm:مرونة",
+  "6": "hs:قوة أ,hc:كارديو,hs:قوة ب,hc:كارديو,hs:قوة ج,hm:مرونة"
+ },
+ "ARN": {
+  "3": "acb:صدر وظهر,asa:كتف وذراعين,al:أرجل وبطن",
+  "4": "acb:صدر وظهر,asa:كتف وذراعين,al:أرجل وبطن,acb:صدر وظهر",
+  "5": "acb:صدر وظهر,asa:كتف وذراعين,al:أرجل وبطن,acb:صدر وظهر,asa:كتف وذراعين",
+  "6": "acb:صدر وظهر,asa:كتف وذراعين,al:أرجل وبطن,acb:صدر وظهر,asa:كتف وذراعين,al:أرجل وبطن"
+ },
+ "PPL": {
+  "3": "push:دفع,pull:سحب,legs:أرجل",
+  "4": "push:دفع,pull:سحب,legs:أرجل,up2:علوي",
+  "5": "push:دفع,pull:سحب,legs:أرجل,up2:علوي,lo2:سفلي",
+  "6": "push:دفع,pull:سحب,legs:أرجل,push:دفع,pull:سحب,legs:أرجل"
+ },
+ "REG": {
+  "3": "fa:جسم كامل أ,fb:جسم كامل ب,fc:جسم كامل ج",
+  "4": "up:علوي أ,lo:سفلي أ,up2:علوي ب,lo2:سفلي ب",
+  "5": "up:علوي أ,lo:سفلي أ,fa:جسم كامل أ,up2:علوي ب,lo2:سفلي ب",
+  "6": "up:علوي أ,lo:سفلي أ,fa:جسم كامل أ,up2:علوي ب,lo2:سفلي ب,fc:جسم كامل ج"
+ },
+ "GYM_SPLITS": {
+  "ppl": {
+   "n": [
+    "دفع / سحب / أرجل",
+    "Push / Pull / Legs"
+   ],
+   "w": [
+    "تجميع العضلات المتآزرة بيوم واحد يعطي كل مجموعة 48–72 ساعة راحة ويسمح بحجم أكبر.",
+    "Grouping synergistic muscles in one day gives each group 48–72 hours of rest and allows more volume."
+   ],
+   "d": {
+    "3": "push:دفع,pull:سحب,legs:أرجل",
+    "4": "push:دفع,pull:سحب,legs:أرجل,up2:علوي",
+    "5": "push:دفع,pull:سحب,legs:أرجل,up2:علوي,lo2:سفلي",
+    "6": "push:دفع,pull:سحب,legs:أرجل,push:دفع,pull:سحب,legs:أرجل"
+   }
+  },
+  "arn": {
+   "n": [
+    "أرنولد",
+    "Arnold"
+   ],
+   "w": [
+    "صدر مع ظهر (عضلات متضادة)، ثم كتف مع ذراعين، ثم أرجل. حجم وكثافة عاليان، ويناسب المتقدمين القادرين على الاستشفاء.",
+    "Chest with back (opposing muscles), then shoulders with arms, then legs. High volume and intensity, suited to advanced lifters who recover well."
+   ],
+   "d": {
+    "3": "acb:صدر وظهر,asa:كتف وذراعين,al:أرجل وبطن",
+    "4": "acb:صدر وظهر,asa:كتف وذراعين,al:أرجل وبطن,acb:صدر وظهر",
+    "5": "acb:صدر وظهر,asa:كتف وذراعين,al:أرجل وبطن,acb:صدر وظهر,asa:كتف وذراعين",
+    "6": "acb:صدر وظهر,asa:كتف وذراعين,al:أرجل وبطن,acb:صدر وظهر,asa:كتف وذراعين,al:أرجل وبطن"
+   }
+  },
+  "reg": {
+   "n": [
+    "عادية",
+    "Regular"
+   ],
+   "w": [
+    "جلستان للعلوي وجلستان للسفلي، فتتدرب كل عضلة مرتين أسبوعياً مع راحة كافية. الأبحاث تُظهر أن مرتين أسبوعياً عموماً أفضل من مرة للقوة والتضخيم.",
+    "Two upper and two lower sessions, so each muscle trains twice a week with enough rest. Research generally shows twice weekly beats once for strength and size."
+   ],
+   "d": {
+    "3": "fa:جسم كامل أ,fb:جسم كامل ب,fc:جسم كامل ج",
+    "4": "up:علوي أ,lo:سفلي أ,up2:علوي ب,lo2:سفلي ب",
+    "5": "up:علوي أ,lo:سفلي أ,fa:جسم كامل أ,up2:علوي ب,lo2:سفلي ب",
+    "6": "up:علوي أ,lo:سفلي أ,fa:جسم كامل أ,up2:علوي ب,lo2:سفلي ب,fc:جسم كامل ج"
+   }
+  }
+ },
+ "SPORT_PROGRAMS": {
+  "run": {
+   "n": [
+    "برنامج الجري",
+    "Running program"
+   ],
+   "w": [
+    "حوالي 80% جري سهل و20% جهد عالٍ، مع تمرين قوة أسبوعياً لتحسين كفاءة الجري. زِد المسافة الأسبوعية تدريجياً.",
+    "About 80% easy running and 20% hard effort, plus weekly strength work to improve running economy. Increase weekly distance gradually."
+   ],
+   "d": {
+    "2": "rE:جري سهل,rS:قوة للعدّائين",
+    "3": "rE:جري سهل,rI:فترات,rL:جري طويل",
+    "4": "rE:جري سهل,rI:فترات,rS:قوة للعدّائين,rL:جري طويل",
+    "5": "rE:جري سهل,rI:فترات,rE:جري سهل,rT:إيقاع ثابت,rL:جري طويل",
+    "6": "rE:جري سهل,rI:فترات,rS:قوة للعدّائين,rT:إيقاع ثابت,rE:جري سهل,rL:جري طويل"
+   }
+  },
+  "fb": {
+   "n": [
+    "برنامج كرة القدم",
+    "Football program"
+   ],
+   "w": [
+    "سرعة وتغيير اتجاه، قوة للأرجل، تحمل بفترات عالية، ووقاية من الإصابات (نوردك للهامسترينغ).",
+    "Speed and change of direction, leg strength, high-intensity endurance, and injury prevention (Nordic hamstring curls)."
+   ],
+   "d": {
+    "2": "fG:قوة,fS:سرعة",
+    "3": "fS:سرعة,fG:قوة,fC:تحمل",
+    "4": "fS:سرعة,fG:قوة,fC:تحمل,fP:وقاية",
+    "5": "fS:سرعة,fG:قوة,fC:تحمل,fP:وقاية,fS:سرعة",
+    "6": "fS:سرعة,fG:قوة,fC:تحمل,fP:وقاية,fS:سرعة,fG:قوة"
+   }
+  },
+  "hyb": {
+   "n": [
+    "برنامج الأداء الهجين",
+    "Hybrid performance program"
+   ],
+   "w": [
+    "قاعدة هوائية مع تمرينين قوة أسبوعياً ومحطات مدمجة (دفع وسحب، حمل، رمي). افصل القوة عن التحمل بجلسة أو ست ساعات على الأقل لتقليل التداخل.",
+    "An aerobic base with two strength sessions a week and combined stations (push and pull, carry, throw). Separate strength from endurance by a session or at least six hours to reduce interference."
+   ],
+   "d": {
+    "2": "hS:قوة,hR:محطات",
+    "3": "hS:قوة,hR:محطات,hE:هوائي سهل",
+    "4": "hS:قوة,hR:محطات,hE:هوائي سهل,hI:فترات",
+    "5": "hS:قوة,hR:محطات,hE:هوائي سهل,hI:فترات,hR:محطات",
+    "6": "hS:قوة,hR:محطات,hE:هوائي سهل,hS:قوة,hI:فترات,hR:محطات"
+   }
+  }
+ }
+}
