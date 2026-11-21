@@ -28,7 +28,7 @@ const LIMITS = { age: [12, 80], h: [120, 230], w: [30, 250], hFeet: [3, 7], hInc
 const MAX_LOGS = 600, MAX_HIST = 400;
 
 /* ---------- account backend (Google Apps Script + Google Sheet) ---------- */
-const API_URL = 'https://script.google.com/macros/s/AKfycbzjHsD5V4YFBWB9cw3TLXoPqX6x2JY0e4fbtK87XEFMgYrPpG2So_wQQUM8HlcFbUlD/exec';
+const API_URL = "https://script.google.com/macros/s/AKfycbw956fVC07Mu5Siu3eR4ZhE3dKoFw5VY1eQYFAKY77DX5mBWPr0fdKhE6zOUHuAiuduUA/exec";
 /* text/plain avoids a CORS preflight (OPTIONS) that this Apps Script endpoint can't answer;
    e.postData.contents on the server still parses fine as JSON regardless of the header. */
 async function apiCall(action, payload) {
