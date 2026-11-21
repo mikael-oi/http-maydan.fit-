@@ -15,7 +15,7 @@
    ========================================================================== */
 
 function doPost(e) {
-  var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("Users");
+  var sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName("fat Users");
   var data = JSON.parse(e.postData.contents);
   var rows = sheet.getDataRange().getValues();
 
